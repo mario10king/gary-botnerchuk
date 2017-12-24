@@ -7,5 +7,5 @@ const express = require('express'),
 
 // Sets server port and logs message on success
 app.listen(process.env.PORT || 1337, () => console.log('webhook is listening'));
-app.get('/webhook', getRequest)
-app.post('/webhook', postRequest)
+app.get('/webhook', getRequest);
+app.post('/webhook', postRequest);
