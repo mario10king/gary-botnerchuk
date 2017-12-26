@@ -1,4 +1,4 @@
-const callSendAPI = require('./sendMessage.js').callSendAPI;
+const callSendAPI = require('./sendMessage').callSendAPI;
 const state = require('./state');
 
 // Handles messages events

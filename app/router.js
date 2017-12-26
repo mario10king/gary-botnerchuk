@@ -1,5 +1,5 @@
 const handleMessage = require('./handleMessage');
-const handlePostback = require('./handlePostback.js');
+const handlePostback = require('./handlePostback');
 
 // Creates the endpoint for our webhook
 module.exports = (req, res) => {
