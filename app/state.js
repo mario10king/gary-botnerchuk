@@ -15,7 +15,7 @@ module.exports = {
   '5': {
     options: [],
     text:
-      'Go on Instagram and search a # related to your business. Click on some of the pictures and message that person.',
+      'Use instagram to find influencers in your market and reach out to them. Most wont reply but you just have to keep on going.',
     nextState: '6'
   },
   '6': {
@@ -24,6 +24,6 @@ module.exports = {
   },
   '7': {
     options: [['I need more advice', '3']],
-    text: 'Ok then get out there and hustle'
+    text: 'Ok then get out there and hustle!'
   }
 };
