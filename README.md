@@ -6,7 +6,7 @@ FB Messenger Bot giving advice as Gary Vaynerchuk would.
 1. Login to this test FB account
     - email: fbtestbot10@gmail.com
     - password: itestbots
-2. Visit the Gary Botnerchuck [FB Page](https:facbook.com/garybotnerchuck)
+2. Visit the Gary Botnerchuk [FB Page](https://facebook.com/garybotnerchuk)
 3. Click on the Send Message Button
 
 ## Why did build it?
