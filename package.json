@@ -4,7 +4,8 @@
   "description": "The Gary Vaynerchuk bot of advice.",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon ./app/server.js",
+    "start": "node ./app/server.js",
+    "development": "nodemon ./app/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
