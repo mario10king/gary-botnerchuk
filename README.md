@@ -10,7 +10,7 @@ FB Messenger Bot giving advice as Gary Vaynerchuk would.
 3. Click on the Send Message Button
 
 ## Why did build it?
-Gary Vaynerchuk is looking for a developer to join his team so I decided to build a fun little messaging app to show some of my skills.
+I decided to build a fun little messaging app to show some of my skills. I decided to make it Gary Vaynerchuk themed because he's someone that I feel gives good advice.
 
 ## What does the app look like?
 ![Image](img/GaryBot.gif)
